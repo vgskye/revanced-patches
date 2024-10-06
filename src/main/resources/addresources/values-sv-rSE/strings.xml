@@ -231,6 +231,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Transkriptsektionen är synlig</string>
   <string name="revanced_hide_description_components_screen_title">Videobeskrivning</string>
   <string name="revanced_hide_description_components_screen_summary">Dölj eller visa videobeskrivningskomponenter</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Dölj YouTube Doodles</string>
+  <string name="revanced_hide_doodles_summary_on">Sökfältet Doodles är dolda</string>
+  <string name="revanced_hide_doodles_summary_off">Sökfältet Doodles visas</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTube Doodles dyker upp några dagar varje år.\n\nOm en Doodle för närvarande visas i din region och denna gömma inställning är på, sedan filterfältet nedanför sökfältet kommer också att döljas.</string>
   <string name="revanced_custom_filter_screen_title">Anpassat filter</string>
   <string name="revanced_custom_filter_screen_summary">Dölj komponenter med anpassade filter</string>
   <string name="revanced_custom_filter_title">Aktivera anpassat filter</string>
@@ -637,6 +642,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Dölj klistermärken</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Klistermärken är dolda</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Klistermärken visas</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Dölj som fontän</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Som knappen fontän animering är dold</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Som knappen fontän animering visas</string>
   <string name="revanced_hide_shorts_like_button_title">Dölj knappen gilla</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Knappen gilla är dold</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Knappen gilla är synlig</string>

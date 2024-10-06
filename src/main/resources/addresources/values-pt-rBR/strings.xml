@@ -231,6 +231,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Seção de transcrição não está oculta</string>
   <string name="revanced_hide_description_components_screen_title">Descrição do vídeo</string>
   <string name="revanced_hide_description_components_screen_summary">Ocultar ou mostrar componentes de descrição do vídeo</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">Filtro personalizado</string>
   <string name="revanced_custom_filter_screen_summary">Ocultar componentes usando filtros personalizados</string>
   <string name="revanced_custom_filter_title">Ativar filtro personalizado</string>
@@ -637,6 +638,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Ocultar adesivos</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Adesivos estão ocultos</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Adesivos estão visíveis</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Ocultar botão curtir</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Como a animação da fonte do botão está oculta</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Como a animação da fonte do botão é mostrada</string>
   <string name="revanced_hide_shorts_like_button_title">Ocultar botão gostei</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Botão gostei está oculto</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Botão gostei não está oculto</string>
@@ -995,7 +999,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_miniplayer_hide_rewind_forward_summary_off">Pular para frente e para trás são mostrados</string>
   <string name="revanced_miniplayer_opacity_title">Opacidade de sobreposição</string>
   <string name="revanced_miniplayer_opacity_summary">Valor de opacidade entre 0-100, onde 0 é transparente</string>
-  <string name="revanced_miniplayer_opacity_invalid_toast">Opacidade da sobreposição de minijogador deve estar entre 0-100</string>
+  <string name="revanced_miniplayer_opacity_invalid_toast">Opacidade da sobreposição de miniplayer deve estar entre 0-100</string>
   </patch>
   <patch id="layout.theme.ThemeBytecodePatch">
   <string name="revanced_gradient_loading_screen_title">Ativar tela de carregamento em gradiente</string>

@@ -230,6 +230,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Bagian transkrip sudah ditampilkan</string>
   <string name="revanced_hide_description_components_screen_title">Keterangan video</string>
   <string name="revanced_hide_description_components_screen_summary">Sembunyi/tampilkan komponen keterangan video</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">Penyaring kustom</string>
   <string name="revanced_custom_filter_screen_summary">Sembunyikan komponen menggunakan penyaring khusus</string>
   <string name="revanced_custom_filter_title">Aktifkan penyaring khusus</string>
@@ -636,6 +637,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Sembunyikan stiker</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Stiker disembunyikan</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Stiker ditampilkan</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Sembunyikan tombol suka yang memancar</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Animasi tombol suka yang memancar disembunyikan</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Animasi tombol suka yang memancar ditampilkan</string>
   <string name="revanced_hide_shorts_like_button_title">Sembunyikan tombol suka</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Tombol suka disembunyikan</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Tombol suka ditampilkan</string>

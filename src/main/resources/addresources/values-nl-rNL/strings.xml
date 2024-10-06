@@ -231,6 +231,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Transcriptsectie wordt weergegeven</string>
   <string name="revanced_hide_description_components_screen_title">Video beschrijving</string>
   <string name="revanced_hide_description_components_screen_summary">Verberg of toon video beschrijving componenten</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Youtube Doodles verbergen</string>
+  <string name="revanced_hide_doodles_summary_on">Zoekbalk Doodsen zijn verborgen</string>
+  <string name="revanced_hide_doodles_summary_off">Zoekbalk Doodles worden weergegeven</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTube Doodles verschijnen een paar dagen per jaar.\n\nAls een Doodle momenteel zichtbaar is in jouw regio en deze instelling is ingeschakeld dan wordt de filterbalk onder de zoekbalk ook verborgen.</string>
   <string name="revanced_custom_filter_screen_title">Aangepast filter</string>
   <string name="revanced_custom_filter_screen_summary">Componenten met aangepaste filters verbergen</string>
   <string name="revanced_custom_filter_title">Aangepaste filter inschakelen</string>
@@ -637,6 +642,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Verberg stickers</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Stickers zijn verborgen</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Stickers worden getoond</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Verbergen als fontein</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Like knop fontein animatie is verborgen</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">De vind-ik-leuk-knop animatie wordt weergegeven</string>
   <string name="revanced_hide_shorts_like_button_title">Verberg leuk-knop</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Vind-ik-leuk-knop is verborgen</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Vind-ik-leuk-knop wordt weergegeven</string>

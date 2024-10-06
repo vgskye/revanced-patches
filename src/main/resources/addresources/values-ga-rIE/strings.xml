@@ -230,6 +230,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Taispeántar alt an tras-scríbhinn</string>
   <string name="revanced_hide_description_components_screen_title">Cur síos físeán</string>
   <string name="revanced_hide_description_components_screen_summary">Folaigh nó taispeáint comhpháirteanna tuairisc</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">Scagaire saincheaptha</string>
   <string name="revanced_custom_filter_screen_summary">Folaigh comhpháirteanna ag baint úsáide as</string>
   <string name="revanced_custom_filter_title">Cumasaigh scagaire saincheaptha</string>

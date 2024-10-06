@@ -230,6 +230,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Transkript kısmı gösteriliyor</string>
   <string name="revanced_hide_description_components_screen_title">Video açıklaması</string>
   <string name="revanced_hide_description_components_screen_summary">Video açıklamasındaki öğeleri gizle veya göster</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">Özel filtre</string>
   <string name="revanced_custom_filter_screen_summary">Özel filtre ile öğeleri gizle</string>
   <string name="revanced_custom_filter_title">Özel filtreyi etkinleştir</string>
@@ -636,6 +637,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Çıkartmaları gizle</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Çıkartmalar gizli</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Çıkartmalar görünür</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Beğeni çeşmesini gizle</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Beğeni düğmesi çeşme animasyonu gizli</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Beğeni düğmesi çeşme animasyonu görünür</string>
   <string name="revanced_hide_shorts_like_button_title">\"Beğen\" butonunu gizle</string>
   <string name="revanced_hide_shorts_like_button_summary_on">\"Beğen\" butonu gizleniyor</string>
   <string name="revanced_hide_shorts_like_button_summary_off">\"Beğen\" butonu gösteriliyor</string>

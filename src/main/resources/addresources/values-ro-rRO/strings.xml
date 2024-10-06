@@ -230,6 +230,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Secțiunea de Transcriere este afișată</string>
   <string name="revanced_hide_description_components_screen_title">Descriere video</string>
   <string name="revanced_hide_description_components_screen_summary">Ascunde sau afișează componentele descrierii video</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Ascunde Doodle-urile YouTube</string>
+  <string name="revanced_hide_doodles_summary_on">Doodles bară de căutare sunt ascunse</string>
+  <string name="revanced_hide_doodles_summary_off">Doodles bară de căutare sunt afișate</string>
+  <string name="revanced_hide_doodles_user_dialog_message">Doodurile YouTube apar câteva zile în fiecare an.\n\nDacă un Doodle se afișează în regiunea ta și această setare de ascensiune este activată, apoi bara de filtre de sub bara de căutare va fi, de asemenea, ascunsă.</string>
   <string name="revanced_custom_filter_screen_title">Filtru personalizat</string>
   <string name="revanced_custom_filter_screen_summary">Ascunde componentele folosind filtre personalizate</string>
   <string name="revanced_custom_filter_title">Activează filtru personalizat</string>
@@ -636,6 +641,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Ascunde autocolante</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Stickerele sunt ascunse</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Stickerele sunt afișate</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Ascunde fântâna</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Animaţia fântânii butoanelor este ascunsă</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Animația fântânii butoanelor este afișată</string>
   <string name="revanced_hide_shorts_like_button_title">Ascunde butonul similar</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Butonul Like este ascuns</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Butonul Like este afișat</string>

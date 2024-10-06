@@ -227,6 +227,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Transskripsjonsseksjonen vises</string>
   <string name="revanced_hide_description_components_screen_title">Beskrivelse av videoen</string>
   <string name="revanced_hide_description_components_screen_summary">Skjul eller vis video-beskrivelse komponenter</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Skjul YouTube dører</string>
+  <string name="revanced_hide_doodles_summary_on">Søk i barnerøvinger er skjult</string>
+  <string name="revanced_hide_doodles_summary_off">Søk i barnetjener vises</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTube Doodles dukker opp noen dager hvert år.\n\nHvis en Doodle viser for øyeblikket i ditt fylke, og denne skjul-innstillingen er på deretter vil filterlinjen under søkefeltet også bli skjult.</string>
   <string name="revanced_custom_filter_screen_title">Egne filtre</string>
   <string name="revanced_custom_filter_screen_summary">Skjul komponenter ved hjelp av tilpassede filtre</string>
   <string name="revanced_custom_filter_title">Aktiver tilpasset filter</string>
@@ -632,6 +637,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Skjul klistremerker</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Klistremerker er skjult</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Klistremerker vises</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Skjul som kilde</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Lik knappens kildeanimasjon er skjult</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Lik knappens animasjon vises</string>
   <string name="revanced_hide_shorts_like_button_title">Skjul som knappen</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Lik knappen er skjult</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Liker-knappen vises</string>

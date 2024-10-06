@@ -230,6 +230,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Разделът за транскрипция е показан</string>
   <string name="revanced_hide_description_components_screen_title">Описание на видеото</string>
   <string name="revanced_hide_description_components_screen_summary">Скриване или показване на компонентите за описание на видеоклиповете</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">Потребителски филтър</string>
   <string name="revanced_custom_filter_screen_summary">Скриване на компоненти с помощта на потребителски филтри</string>
   <string name="revanced_custom_filter_title">Активиране на потребителските филтри</string>
@@ -627,9 +628,18 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_location_label_title">Етикет за местоположение</string>
   <string name="revanced_hide_shorts_location_label_summary_on">Етикет за местоположение е скрит</string>
   <string name="revanced_hide_shorts_location_label_summary_off">Етикет за местоположение се показва</string>
+  <string name="revanced_hide_shorts_save_sound_button_title">Скриване на бутона Запазване на музика</string>
+  <string name="revanced_hide_shorts_save_sound_button_summary_on">Скрит</string>
+  <string name="revanced_hide_shorts_save_sound_button_summary_off">Показва се</string>
   <string name="revanced_hide_shorts_search_suggestions_title">Скриване на предложенията за търсене</string>
   <string name="revanced_hide_shorts_search_suggestions_summary_on">Предложенията за търсене са скрити</string>
   <string name="revanced_hide_shorts_search_suggestions_summary_off">Предложенията за търсене се показват</string>
+  <string name="revanced_hide_shorts_stickers_title">Скриване на стикери</string>
+  <string name="revanced_hide_shorts_stickers_summary_on">Стикерите са скрити</string>
+  <string name="revanced_hide_shorts_stickers_summary_off">Стикери са показани</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Анимация на бутона \"Харесвам\"</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Анимацията на бутона „Харесва ми“ е скрита</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Анимацията на бутона „Харесва ми“ се показва</string>
   <string name="revanced_hide_shorts_like_button_title">Скриване на бутона за харесване</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Бутона за харесване е скрит</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Бутона за харесване се показва</string>

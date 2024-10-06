@@ -231,6 +231,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Je zobrazena sekce přepisu</string>
   <string name="revanced_hide_description_components_screen_title">Popis videa</string>
   <string name="revanced_hide_description_components_screen_summary">Skrýt nebo zobrazit komponenty popisu videa</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Skrýt YouTube Dveody</string>
+  <string name="revanced_hide_doodles_summary_on">Vyhledávací lišty jsou skryté Doodles</string>
+  <string name="revanced_hide_doodles_summary_off">Vyhledávací lišty jsou zobrazeny</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTube Doodles se zobrazí každý rok několik dní.\n\nPokud se ve vašem regionu zobrazuje Doodle a toto nastavení je zapnuto, pak bude také skryta lišta filtrů pod vyhledávacím řádkem.</string>
   <string name="revanced_custom_filter_screen_title">Vlastní filtr</string>
   <string name="revanced_custom_filter_screen_summary">Skrýt komponenty pomocí vlastních filtrů</string>
   <string name="revanced_custom_filter_title">Povolit vlastní filtr</string>
@@ -637,6 +642,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Skrýt nálepky</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Samolepky jsou skryté</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Samolepky jsou zobrazeny</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Skrýt jako fontánku</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Animace fontánského tlačítka „To se mi líbí“ je skrytá</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Zobrazí se animace fontánu, které se líbí tlačítku</string>
   <string name="revanced_hide_shorts_like_button_title">Skrýt tlačítko „To se mi líbí“</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Tlačítko se mi líbí je skryté</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Tlačítko se mi líbí</string>

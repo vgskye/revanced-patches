@@ -80,7 +80,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_settings_screen_03_feed_title">動態消息</string>
   <string name="revanced_settings_screen_04_player_title">播放器</string>
   <string name="revanced_settings_screen_05_general_title">通用版面</string>
-  <string name="revanced_settings_screen_07_seekbar_title">拖拽欄</string>
+  <string name="revanced_settings_screen_07_seekbar_title">進度列</string>
   <string name="revanced_settings_screen_08_swipe_controls_title">滑動控制</string>
   <string name="revanced_settings_screen_11_misc_title">其他</string>
   <string name="revanced_settings_screen_12_video_title">影片</string>
@@ -230,6 +230,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">已顯示字幕記錄區</string>
   <string name="revanced_hide_description_components_screen_title">影片描述欄</string>
   <string name="revanced_hide_description_components_screen_summary">隱藏或顯示影片描述欄內容</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">自訂篩選器</string>
   <string name="revanced_custom_filter_screen_summary">使用自訂篩選器隱藏欄位</string>
   <string name="revanced_custom_filter_title">啟用自訂篩選器</string>
@@ -347,9 +348,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_disable_precise_seeking_gesture_summary_off">已啟用手勢</string>
   </patch>
   <patch id="interaction.seekbar.EnableSeekbarTappingPatch">
-  <string name="revanced_seekbar_tapping_title">啟用進度條點擊</string>
-  <string name="revanced_seekbar_tapping_summary_on">已啟用進度條點擊</string>
-  <string name="revanced_seekbar_tapping_summary_off">已停用進度條點擊</string>
+  <string name="revanced_seekbar_tapping_title">啟用進度列點擊</string>
+  <string name="revanced_seekbar_tapping_summary_on">已啟用進度列點擊</string>
+  <string name="revanced_seekbar_tapping_summary_off">已停用進度列點擊</string>
   </patch>
   <patch id="interaction.swipecontrols.SwipeControlsResourcePatch">
   <string name="revanced_swipe_brightness_title">啟用亮度手勢</string>
@@ -585,12 +586,12 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_disable_rolling_number_animations_summary_off">動畫滾動數字</string>
   </patch>
   <patch id="layout.hide.seekbar.HideSeekbarPatch">
-  <string name="revanced_hide_seekbar_title">隱藏影片播放器進度條</string>
-  <string name="revanced_hide_seekbar_summary_on">已隱藏影片播放器進度條</string>
-  <string name="revanced_hide_seekbar_summary_off">已顯示影片播放器進度條</string>
-  <string name="revanced_hide_seekbar_thumbnail_title">在縮圖中隱藏進度條</string>
-  <string name="revanced_hide_seekbar_thumbnail_summary_on">已隱藏縮圖進度條</string>
-  <string name="revanced_hide_seekbar_thumbnail_summary_off">已顯示縮圖進度條</string>
+  <string name="revanced_hide_seekbar_title">隱藏影片播放器進度列</string>
+  <string name="revanced_hide_seekbar_summary_on">已隱藏影片播放器進度列</string>
+  <string name="revanced_hide_seekbar_summary_off">已顯示影片播放器進度列</string>
+  <string name="revanced_hide_seekbar_thumbnail_title">在縮圖中隱藏進度列</string>
+  <string name="revanced_hide_seekbar_thumbnail_summary_on">已隱藏縮圖進度列</string>
+  <string name="revanced_hide_seekbar_thumbnail_summary_off">已顯示縮圖進度列</string>
   </patch>
   <patch id="layout.hide.shorts.HideShortsComponentsResourcePatch">
   <!-- 'home' should be translated using the same localized wording YouTube displays for the home tab. -->
@@ -636,6 +637,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">隱藏「Stickers」</string>
   <string name="revanced_hide_shorts_stickers_summary_on">已隱藏「Stickers」</string>
   <string name="revanced_hide_shorts_stickers_summary_off">已顯示「Stickers」</string>
+  <string name="revanced_hide_shorts_like_fountain_title">隱藏 [喜歡] 按鈕的動畫</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">已隱藏 [喜歡] 按鈕的動畫</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">已顯示 [喜歡] 按鈕的動畫</string>
   <string name="revanced_hide_shorts_like_button_title">隱藏「喜歡」按鈕</string>
   <string name="revanced_hide_shorts_like_button_summary_on">已隱藏「喜歡」按鈕</string>
   <string name="revanced_hide_shorts_like_button_summary_off">已顯示「喜歡」按鈕</string>
@@ -745,9 +749,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_wide_searchbar_summary_off">已停用寬搜尋列</string>
   </patch>
   <patch id="layout.seekbar.RestoreOldSeekbarThumbnailsPatch">
-  <string name="revanced_restore_old_seekbar_thumbnails_title">還原舊版進度條縮圖</string>
-  <string name="revanced_restore_old_seekbar_thumbnails_summary_on">進度條縮圖將出現在進度條上</string>
-  <string name="revanced_restore_old_seekbar_thumbnails_summary_off">進度條縮圖將出現在全螢幕畫面</string>
+  <string name="revanced_restore_old_seekbar_thumbnails_title">還原舊版進度列縮圖</string>
+  <string name="revanced_restore_old_seekbar_thumbnails_summary_on">進度列縮圖將出現在進度列上</string>
+  <string name="revanced_restore_old_seekbar_thumbnails_summary_off">進度列縮圖將出現在全螢幕畫面</string>
   </patch>
   <patch id="layout.sponsorblock.SponsorBlockResourcePatch">
   <string name="revanced_sb_enable_sb">啟用 SponsorBlock</string>
@@ -862,7 +866,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_sb_skip_automatically">自動跳過</string>
   <string name="revanced_sb_skip_automatically_once">自動跳過一次</string>
   <string name="revanced_sb_skip_showbutton">顯示跳過按鈕</string>
-  <string name="revanced_sb_skip_seekbaronly">在進度條顯示</string>
+  <string name="revanced_sb_skip_seekbaronly">在進度列顯示</string>
   <string name="revanced_sb_skip_ignore">停用</string>
   <string name="revanced_sb_submit_failed_invalid">無法提交片段：%s</string>
   <string name="revanced_sb_submit_failed_timeout">SponsorBlock 暫時離線</string>
@@ -1001,12 +1005,12 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_gradient_loading_screen_summary_off">載入畫面將有純色背景</string>
   </patch>
   <patch id="layout.theme.ThemeResourcePatch">
-  <string name="revanced_seekbar_custom_color_title">啟用自訂進度條顏色</string>
-  <string name="revanced_seekbar_custom_color_summary_on">已顯示自訂進度條顏色</string>
-  <string name="revanced_seekbar_custom_color_summary_off">已顯示原版進度條顏色</string>
-  <string name="revanced_seekbar_custom_color_value_title">自訂進度條顏色</string>
-  <string name="revanced_seekbar_custom_color_value_summary">進度條顏色</string>
-  <string name="revanced_seekbar_custom_color_invalid">無效的進度條顏色。已重設為預設值。</string>
+  <string name="revanced_seekbar_custom_color_title">啟用自訂進度列顏色</string>
+  <string name="revanced_seekbar_custom_color_summary_on">已顯示自訂進度列顏色</string>
+  <string name="revanced_seekbar_custom_color_summary_off">已顯示原版進度列顏色</string>
+  <string name="revanced_seekbar_custom_color_value_title">自訂進度列顏色</string>
+  <string name="revanced_seekbar_custom_color_value_summary">進度列顏色</string>
+  <string name="revanced_seekbar_custom_color_invalid">無效的進度列顏色。已重設為預設值。</string>
   </patch>
   <patch id="layout.thumbnails.BypassImageRegionRestrictions">
   <string name="revanced_bypass_image_region_restrictions_title">繞過圖片區域限制</string>

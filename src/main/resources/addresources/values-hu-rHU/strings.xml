@@ -230,6 +230,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Az átirat rész megjelenik</string>
   <string name="revanced_hide_description_components_screen_title">Videóleírás</string>
   <string name="revanced_hide_description_components_screen_summary">A videóleírás komponenseinek elrejtése vagy megjelenítése</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">Egyedi szűrő</string>
   <string name="revanced_custom_filter_screen_summary">Komponensek elrejtése egyedi szűrők használatával</string>
   <string name="revanced_custom_filter_title">Egyedi szűrők engedélyezése</string>
@@ -627,9 +628,18 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_location_label_title">Helycímke elrejtése</string>
   <string name="revanced_hide_shorts_location_label_summary_on">A helycímke el van rejtve</string>
   <string name="revanced_hide_shorts_location_label_summary_off">A helycímke megjelenik</string>
+  <string name="revanced_hide_shorts_save_sound_button_title">Zene mentés gomb elrejtése</string>
+  <string name="revanced_hide_shorts_save_sound_button_summary_on">A zene mentése el van rejtve</string>
+  <string name="revanced_hide_shorts_save_sound_button_summary_off">Megjelenik a Zene mentése</string>
   <string name="revanced_hide_shorts_search_suggestions_title">Keresési javaslatok elrejtése</string>
   <string name="revanced_hide_shorts_search_suggestions_summary_on">A keresési javaslatok el vannak rejtve</string>
   <string name="revanced_hide_shorts_search_suggestions_summary_off">A keresési javaslatok megjelennek</string>
+  <string name="revanced_hide_shorts_stickers_title">Matricák elrejtése</string>
+  <string name="revanced_hide_shorts_stickers_summary_on">A matricák el vannak rejtve</string>
+  <string name="revanced_hide_shorts_stickers_summary_off">A matricák láthatóak</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Tetszik szökőkút elrejtése</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">A Like gomb szökőkút animáció el van rejtve</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">A Like gomb szökőkút animáció látható</string>
   <string name="revanced_hide_shorts_like_button_title">Tetszik gomb elrejtése</string>
   <string name="revanced_hide_shorts_like_button_summary_on">A tetszik gomb elrejtve</string>
   <string name="revanced_hide_shorts_like_button_summary_off">A tetszik gomb megjelenik</string>

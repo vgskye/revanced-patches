@@ -231,6 +231,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Sekcja transkryptu jest wyświetlana</string>
   <string name="revanced_hide_description_components_screen_title">Opis wideo</string>
   <string name="revanced_hide_description_components_screen_summary">Ukryj lub pokaż elementy opisu wideo</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Ukryj Doodles YouTube</string>
+  <string name="revanced_hide_doodles_summary_on">Pasek wyszukiwania jest ukryty</string>
+  <string name="revanced_hide_doodles_summary_off">Pasek wyszukiwania jest wyświetlany</string>
+  <string name="revanced_hide_doodles_user_dialog_message">Doodles YouTube pojawia się co roku kilka dni.\n\nJeśli Doodle wyświetla się w Twoim regionie, a to ustawienie ukrycia jest włączone, następnie pasek filtru poniżej paska wyszukiwania będzie również ukryty.</string>
   <string name="revanced_custom_filter_screen_title">Własny filtr</string>
   <string name="revanced_custom_filter_screen_summary">Ukryj komponenty za pomocą niestandardowych filtrów</string>
   <string name="revanced_custom_filter_title">Włącz własny filtr</string>
@@ -637,6 +642,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Ukryj naklejki</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Naklejki są ukryte</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Naklejki są wyświetlane</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Ukryj jak Fontanna</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Animacja tworzenia przycisków polubienia jest ukryta</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Pokazana jest animacja przycisku założycielskiego</string>
   <string name="revanced_hide_shorts_like_button_title">Ukryj przycisk polubień</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Przycisk polubienia jest ukryty</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Przycisk polubienia jest pokazany</string>
@@ -698,7 +706,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   </patch>
   <patch id="layout.returnyoutubedislike.ReturnYouTubeDislikeResourcePatch">
   <!-- Toast shown if network connection times out. Translations of this should not be longer than the original English or the text can be clipped and not entirely shown. -->
-  <string name="revanced_ryd_failure_connection_timeout"></string>
+  <string name="revanced_ryd_failure_connection_timeout">Łapki w dół są tymczasowo niedostępne (API nie reaguje)</string>
   <string name="revanced_ryd_failure_connection_status_code">Brak polubień (status %d)</string>
   <string name="revanced_ryd_failure_client_rate_limit_requested">Łapki w dół nie są dostępne (limit API użytkownika)</string>
   <string name="revanced_ryd_failure_generic">Brak polubień (%s)</string>
@@ -737,7 +745,6 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_ryd_statistics_getFetchCallNumberOfFailures_non_zero_summary">%d połączenia sieciowe przekroczyły limit czasu</string>
   <string name="revanced_ryd_statistics_getNumberOfRateLimitRequestsEncountered_title">Limity prędkości klienta API</string>
   <string name="revanced_ryd_statistics_getNumberOfRateLimitRequestsEncountered_zero_summary">Nie napotkano limitów cenowych klienta</string>
-  <string name="revanced_ryd_statistics_getNumberOfRateLimitRequestsEncountered_non_zero_summary"></string>
   <string name="revanced_ryd_statistics_millisecond_text">%d milisekund</string>
   </patch>
   <patch id="layout.searchbar.WideSearchbarPatch">

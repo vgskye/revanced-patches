@@ -231,6 +231,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Transkriptio-osio näytetään</string>
   <string name="revanced_hide_description_components_screen_title">Videon kuvaus</string>
   <string name="revanced_hide_description_components_screen_summary">Piilota tai näytä videon kuvauskomponentteja</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Piilota YouTube-ovet</string>
+  <string name="revanced_hide_doodles_summary_on">Hakupalkki Doodles on piilotettu</string>
+  <string name="revanced_hide_doodles_summary_off">Hakupalkki Doodles näytetään</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTube Doodles esiintyy muutaman päivän joka vuosi.\n\nJos Doodle näyttää tällä hetkellä alueellasi ja tämä piilon asetus on päällä, sitten myös hakupalkin alla oleva suodatinpalkki piilotetaan.</string>
   <string name="revanced_custom_filter_screen_title">Mukautettu suodatin</string>
   <string name="revanced_custom_filter_screen_summary">Piilota komponentteja mukautetuilla suodattimilla</string>
   <string name="revanced_custom_filter_title">Käytä mukautettua suodatinta</string>
@@ -637,6 +642,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Piilota tarrat</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Tarrat on piilotettu</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Tarrat näytetään</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Piilota kuin suihkulähde</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Kuten painikkeen lähteen animaatio on piilotettu</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Kuten painikkeen lähteen animaatio näytetään</string>
   <string name="revanced_hide_shorts_like_button_title">Piilota tykkää-painike</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Tykkä-painike on piilotettu</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Tykkää-painike näytetään</string>

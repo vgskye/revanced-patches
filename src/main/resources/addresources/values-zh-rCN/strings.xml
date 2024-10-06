@@ -229,6 +229,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">显示字幕部分</string>
   <string name="revanced_hide_description_components_screen_title">视频描述</string>
   <string name="revanced_hide_description_components_screen_summary">隐藏或显示视频描述组件</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">隐藏 YouTube Doodles</string>
+  <string name="revanced_hide_doodles_summary_on">搜索栏门框已隐藏</string>
+  <string name="revanced_hide_doodles_summary_off">显示搜索栏门框</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTube Doodles 每年显示几天。\n\n如果您所在区域正在显示一个Doodle且此隐藏设置已开启。 然后搜索栏下方的过滤栏也将被隐藏。</string>
   <string name="revanced_custom_filter_screen_title">自定义过滤器</string>
   <string name="revanced_custom_filter_screen_summary">使用自定义过滤器隐藏组件</string>
   <string name="revanced_custom_filter_title">启用自定义过滤器</string>
@@ -635,6 +640,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">隐藏貼圖</string>
   <string name="revanced_hide_shorts_stickers_summary_on">貼圖已隐藏</string>
   <string name="revanced_hide_shorts_stickers_summary_off">显示貼圖</string>
+  <string name="revanced_hide_shorts_like_fountain_title">隐藏像喷射那样的</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">像按钮喷发动画一样隐藏</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">像按钮喷射动画</string>
   <string name="revanced_hide_shorts_like_button_title">隐藏像按钮</string>
   <string name="revanced_hide_shorts_like_button_summary_on">喜欢按钮已隐藏</string>
   <string name="revanced_hide_shorts_like_button_summary_off">显示喜欢按钮</string>

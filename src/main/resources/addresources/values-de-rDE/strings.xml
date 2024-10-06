@@ -230,6 +230,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Sektion Transkripte wird angezeigt</string>
   <string name="revanced_hide_description_components_screen_title">Videobeschreibung</string>
   <string name="revanced_hide_description_components_screen_summary">Komponenten der Videobeschreibung ausblenden oder anzeigen</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">YouTube Doodles ausblenden</string>
+  <string name="revanced_hide_doodles_summary_on">Suchleiste Doodles sind versteckt</string>
+  <string name="revanced_hide_doodles_summary_off">Suchleiste Doodles werden angezeigt</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTube Doodles erscheinen jedes Jahr ein paar Tage.\n\nWenn ein Doodle in deiner Region angezeigt wird und diese Versteckeinstellung aktiviert ist dann wird auch die Filterleiste unterhalb der Suchleiste ausgeblendet.</string>
   <string name="revanced_custom_filter_screen_title">Eigener Filter</string>
   <string name="revanced_custom_filter_screen_summary">Komponenten mit benutzerdefinierten Filtern ausblenden</string>
   <string name="revanced_custom_filter_title">Eigenen Filter aktivieren</string>
@@ -636,6 +641,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Sticker ausblenden</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Sticker sind versteckt</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Sticker werden angezeigt</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Verstecke wie Fontäne</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Wie Knopf Fontänen-Animation ist ausgeblendet</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Wie Button Fontänen-Animation wird angezeigt</string>
   <string name="revanced_hide_shorts_like_button_title">Verstecke \"Gefällt mir\" Button</string>
   <string name="revanced_hide_shorts_like_button_summary_on">\"Gefällt mir\" Button ist ausgeblendet</string>
   <string name="revanced_hide_shorts_like_button_summary_off">\"Gefällt mir\" Button wird angezeigt</string>

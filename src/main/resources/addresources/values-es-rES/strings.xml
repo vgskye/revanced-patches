@@ -230,6 +230,10 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Se muestra la sección transcripción</string>
   <string name="revanced_hide_description_components_screen_title">Descripción del vídeo</string>
   <string name="revanced_hide_description_components_screen_summary">Ocultar o mostrar componentes de descripción de vídeo</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Ocultar YouTube Doodles</string>
+  <string name="revanced_hide_doodles_summary_on">Barra de búsqueda Doodles están ocultos</string>
+  <string name="revanced_hide_doodles_summary_off">Mostrar la barra de búsqueda Doodles</string>
   <string name="revanced_custom_filter_screen_title">Filtro personalizado</string>
   <string name="revanced_custom_filter_screen_summary">Ocultar componentes usando filtros personalizados</string>
   <string name="revanced_custom_filter_title">Activar filtro personalizado</string>
@@ -636,6 +640,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Ocultar stickers</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Los pegatinas están ocultos</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Se muestran pegatinas</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Ocultar como fuente</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">La animación de fuente de botón \"Me gusta\" está oculta</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Se muestra la animación de fuente de botón \"Me gusta\"</string>
   <string name="revanced_hide_shorts_like_button_title">Ocultar botón me gusta</string>
   <string name="revanced_hide_shorts_like_button_summary_on">El botón Me gusta está oculto</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Se muestra el botón Me Gusta</string>

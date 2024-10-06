@@ -220,6 +220,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Паказваецца раздзел стэнаграмы</string>
   <string name="revanced_hide_description_components_screen_title">Апісанне відэа</string>
   <string name="revanced_hide_description_components_screen_summary">Схаваць або паказаць кампаненты апісання відэа</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">Карыстальніцкі фільтр</string>
   <string name="revanced_custom_filter_screen_summary">Схавайце кампаненты з дапамогай карыстацкіх фільтраў</string>
   <string name="revanced_custom_filter_title">Уключыць карыстальніцкі фільтр</string>

@@ -230,6 +230,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Phần bản chép lời được hiện</string>
   <string name="revanced_hide_description_components_screen_title">Mô tả video</string>
   <string name="revanced_hide_description_components_screen_summary">Ẩn hoặc hiện các thành phần mô tả video</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">Bộ lọc tùy chỉnh</string>
   <string name="revanced_custom_filter_screen_summary">Ẩn các thành phần dùng bộ lọc tùy chỉnh</string>
   <string name="revanced_custom_filter_title">Bật bộ lọc tùy chỉnh</string>
@@ -627,9 +628,18 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_location_label_title">Ẩn nhãn vị trí</string>
   <string name="revanced_hide_shorts_location_label_summary_on">Nhãn vị trí được ẩn</string>
   <string name="revanced_hide_shorts_location_label_summary_off">Nhãn vị trí được hiện</string>
+  <string name="revanced_hide_shorts_save_sound_button_title">Ẩn nút lưu nhạc</string>
+  <string name="revanced_hide_shorts_save_sound_button_summary_on">Lưu nhạc được ẩn</string>
+  <string name="revanced_hide_shorts_save_sound_button_summary_off">Lưu nhạc được hiện</string>
   <string name="revanced_hide_shorts_search_suggestions_title">Ẩn đề xuất tìm kiếm</string>
   <string name="revanced_hide_shorts_search_suggestions_summary_on">Đề xuất tìm kiếm được ẩn</string>
   <string name="revanced_hide_shorts_search_suggestions_summary_off">Đề xuất tìm kiếm được hiện</string>
+  <string name="revanced_hide_shorts_stickers_title">Ẩn nhãn dán</string>
+  <string name="revanced_hide_shorts_stickers_summary_on">Nhãn dán được ẩn</string>
+  <string name="revanced_hide_shorts_stickers_summary_off">Nhãn dán được hiện</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Ẩn đài phun thích</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Đài phun thích được ẩn</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Đài phun thích được hiện</string>
   <string name="revanced_hide_shorts_like_button_title">Ẩn nút thích</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Nút thích được ẩn</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Nút thích được hiện</string>

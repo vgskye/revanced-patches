@@ -107,9 +107,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_disable_like_subscribe_glow_title">Онемогући сјај дугмади „Свиђање” / „Запрати”</string>
   <string name="revanced_disable_like_subscribe_glow_summary_on">Дугмад „Свиђање” и „Запрати” неће светлети када се притисну</string>
   <string name="revanced_disable_like_subscribe_glow_summary_off">Дугмад „Свиђање” и „Запрати” ће светлети када се притисну</string>
-  <string name="revanced_hide_gray_separator_title">Сакриј сиви сепаратор</string>
-  <string name="revanced_hide_gray_separator_summary_on">Сиви сепаратори су скривени</string>
-  <string name="revanced_hide_gray_separator_summary_off">Сиви сепаратори су приказани</string>
+  <string name="revanced_hide_gray_separator_title">Сакриј сиве разделнике</string>
+  <string name="revanced_hide_gray_separator_summary_on">Сиви разделници су скривени</string>
+  <string name="revanced_hide_gray_separator_summary_off">Сиви разделници су приказани</string>
   <string name="revanced_hide_channel_watermark_title">Сакриј водени жиг канала</string>
   <string name="revanced_hide_channel_watermark_summary_on">Водени жиг канала је скривен</string>
   <string name="revanced_hide_channel_watermark_summary_off">Водени жиг канала је приказан</string>
@@ -231,6 +231,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Одељак за транскрипцију је скривен</string>
   <string name="revanced_hide_description_components_screen_title">Опис видеа</string>
   <string name="revanced_hide_description_components_screen_summary">Сакријте или прикажите компоненте описа видеа</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">Прилагођени филтер</string>
   <string name="revanced_custom_filter_screen_summary">Сакријте компоненте користећи прилагођене филтере</string>
   <string name="revanced_custom_filter_title">Омогући прилагођени филтер</string>
@@ -628,9 +629,18 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_location_label_title">Сакриј ознаку локације</string>
   <string name="revanced_hide_shorts_location_label_summary_on">Ознака локације је скривена</string>
   <string name="revanced_hide_shorts_location_label_summary_off">Ознака локације је приказана</string>
+  <string name="revanced_hide_shorts_save_sound_button_title">Сакриј дугме „Сачувај звук”</string>
+  <string name="revanced_hide_shorts_save_sound_button_summary_on">Дугме „Сачувај звук” је скривено</string>
+  <string name="revanced_hide_shorts_save_sound_button_summary_off">Дугме „Сачувај звук” је приказано</string>
   <string name="revanced_hide_shorts_search_suggestions_title">Сакриј предлоге за претрагу</string>
   <string name="revanced_hide_shorts_search_suggestions_summary_on">Предлози за претрагу су скривени</string>
   <string name="revanced_hide_shorts_search_suggestions_summary_off">Предлози за претрагу су приказани</string>
+  <string name="revanced_hide_shorts_stickers_title">Сакриј налепнице</string>
+  <string name="revanced_hide_shorts_stickers_summary_on">Налепнице су скривене</string>
+  <string name="revanced_hide_shorts_stickers_summary_off">Налепнице су приказане</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Сакриј анимацију дугмета „Свиђање”</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Анимација дугмета „Свиђање” је скривена</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Анимација дугмета „Свиђање” је приказана</string>
   <string name="revanced_hide_shorts_like_button_title">Сакриј дугме „Свиђање”</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Дугме „Свиђање” је скривено</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Дугме „Свиђање” је приказано</string>

@@ -229,6 +229,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Secção de transcrição exibida</string>
   <string name="revanced_hide_description_components_screen_title">Descrição do vídeo</string>
   <string name="revanced_hide_description_components_screen_summary">Esconder ou mostrar componentes de descrição do vídeo</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Ocultar Doodles do YouTube</string>
+  <string name="revanced_hide_doodles_summary_on">Doodles da barra de pesquisa estão escondidos</string>
+  <string name="revanced_hide_doodles_summary_off">Doodles são mostrados na barra de pesquisa</string>
+  <string name="revanced_hide_doodles_user_dialog_message">O YouTube Doodles aparece alguns dias todos os anos.\n\nSe um Doodle está atualmente sendo exibido na sua região e esta configuração de ocultar está ativada, então a barra de filtro abaixo da barra de pesquisa também será ocultada.</string>
   <string name="revanced_custom_filter_screen_title">Filtro personalizado</string>
   <string name="revanced_custom_filter_screen_summary">Esconder componentes usando filtros personalizados</string>
   <string name="revanced_custom_filter_title">Ativar filtro personalizado</string>
@@ -634,6 +639,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Ocultar stickers</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Adesivos estão ocultos</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Stickers são mostrados</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Ocultar como a fonte</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">A animação da fonte do botão curtir está oculta</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Animação de botão fonte é mostrada</string>
   <string name="revanced_hide_shorts_like_button_title">Esconder botão \"curtir\"</string>
   <string name="revanced_hide_shorts_like_button_summary_on">O botão curtir está escondido</string>
   <string name="revanced_hide_shorts_like_button_summary_off">O botão curtir está visível</string>

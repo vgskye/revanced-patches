@@ -230,6 +230,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">يتم عرض قسم النص</string>
   <string name="revanced_hide_description_components_screen_title">وصف الفيديو</string>
   <string name="revanced_hide_description_components_screen_summary">إخفاء أو عرض مكونات وصف الفيديو</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">إخفاء رموز اليوتيوب</string>
+  <string name="revanced_hide_doodles_summary_on">رموز شريط البحث مخفية</string>
+  <string name="revanced_hide_doodles_summary_off">يتم عرض رموز شريط البحث</string>
+  <string name="revanced_hide_doodles_user_dialog_message">برامج يوتيوب تظهر بضعة أيام كل عام.\n\nإذا كانت الكودل تظهر حاليا في منطقتك وهذا الإعداد المخفي مفعول، ثم سيتم إخفاء شريط التصفية أسفل شريط البحث.</string>
   <string name="revanced_custom_filter_screen_title">فلتر مخصص</string>
   <string name="revanced_custom_filter_screen_summary">إخفاء المكونات باستخدام فلاتر مخصصة</string>
   <string name="revanced_custom_filter_title">تمكين الفلتر المخصص</string>
@@ -636,6 +641,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">إخفاء الملصقات</string>
   <string name="revanced_hide_shorts_stickers_summary_on">تم إخفاء الملصقات</string>
   <string name="revanced_hide_shorts_stickers_summary_off">يتم عرض الملصقات</string>
+  <string name="revanced_hide_shorts_like_fountain_title">إخفاء نافورة أعجبني</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">تم إخفاء تأثير النافورة لـزر أعجبني</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">يتم عرض تأثير النافورة لـزر أعجبني</string>
   <string name="revanced_hide_shorts_like_button_title">إخفاء زر أعجبني</string>
   <string name="revanced_hide_shorts_like_button_summary_on">تم إخفاء زر أعجبني</string>
   <string name="revanced_hide_shorts_like_button_summary_off">يتم عرض زر أعجبني</string>

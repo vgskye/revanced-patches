@@ -214,6 +214,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Ipinapakita ang seksyon ng transcript</string>
   <string name="revanced_hide_description_components_screen_title">Paglalarawan ng video</string>
   <string name="revanced_hide_description_components_screen_summary">Itago o ipakita ang mga bahagi ng paglalarawan ng video</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">Custom na filter</string>
   <string name="revanced_custom_filter_screen_summary">Itago ang mga bahagi gamit ang mga custom na filter</string>
   <string name="revanced_custom_filter_title">Paganahin ang custom na filter</string>

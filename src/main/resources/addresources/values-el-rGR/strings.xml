@@ -230,6 +230,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Εμφανίζεται</string>
   <string name="revanced_hide_description_components_screen_title">Περιγραφή βίντεο</string>
   <string name="revanced_hide_description_components_screen_summary">Απόκρυψη ή εμφάνιση στοιχείων περιγραφής βίντεο</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Απόκρυψη Doodles Youtube</string>
+  <string name="revanced_hide_doodles_summary_on">Doodles doodles αναζήτησης είναι κρυμμένες</string>
+  <string name="revanced_hide_doodles_summary_off">Doodles της μπάρας αναζήτησης εμφανίζονται</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTube Doodles εμφανίζονται λίγες ημέρες κάθε χρόνο.\n\nΑν ένα Doodle εμφανίζεται επί του παρόντος στην περιοχή σας και αυτή η ρύθμιση απόκρυψης είναι ενεργοποιημένη, τότε η γραμμή φίλτρου κάτω από τη γραμμή αναζήτησης θα είναι επίσης κρυμμένη.</string>
   <string name="revanced_custom_filter_screen_title">Προσαρμοσμένο φίλτρο</string>
   <string name="revanced_custom_filter_screen_summary">Απόκρυψη στοιχείων χρησιμοποιώντας προσαρμοσμένα φίλτρα</string>
   <string name="revanced_custom_filter_title">Χρήση προσαρμοσμένου φίλτρου</string>
@@ -636,6 +641,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Αυτοκόλλητα</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Κρυμμένα</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Εμφανίζονται</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Εφέ κίνησης κουμπιού «Μου αρέσει»</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Κρυμμένο</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Εμφανίζεται</string>
   <string name="revanced_hide_shorts_like_button_title">Κουμπί «Μου αρέσει»</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Κρυμμένο</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Εμφανίζεται</string>

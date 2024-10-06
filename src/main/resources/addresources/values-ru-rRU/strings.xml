@@ -231,6 +231,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Раздел расшифровки в описании видео отображен</string>
   <string name="revanced_hide_description_components_screen_title">Описание видео</string>
   <string name="revanced_hide_description_components_screen_summary">Скрыть или отобразить компоненты описания видео</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Скрыть YouTube Doodles</string>
+  <string name="revanced_hide_doodles_summary_on">Типы строк поиска скрыты</string>
+  <string name="revanced_hide_doodles_summary_off">Отображаются настройки панели поиска</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTube Doodles появляются несколько дней в году.\n\nЕсли в вашем регионе в настоящее время показывается Doodle, и этот параметр скрытия включен, , то панель фильтров под строкой поиска будет также скрыта.</string>
   <string name="revanced_custom_filter_screen_title">Пользовательский фильтр</string>
   <string name="revanced_custom_filter_screen_summary">Скрыть компоненты с помощью пользовательских фильтров</string>
   <string name="revanced_custom_filter_title">Пользовательский фильтр</string>
@@ -637,6 +642,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Стикеры</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Стикеры скрыты</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Стикеры отображены</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Анимация кнопки \"Лайк\"</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Анимация кнопки \"Лайк\" скрыта</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Анимация кнопки \"Лайк\" отображена</string>
   <string name="revanced_hide_shorts_like_button_title">Кнопка \"Лайк\"</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Кнопка \"Лайк\" в Shorts скрыта</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Кнопка \"Лайк\" в Shorts отображена</string>

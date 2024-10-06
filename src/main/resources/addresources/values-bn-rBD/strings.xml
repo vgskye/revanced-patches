@@ -210,6 +210,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">ট্রান্সস্ক্রিপ্ট বিভাগ প্রদর্শিত হয়েছে</string>
   <string name="revanced_hide_description_components_screen_title">ভিডিওর বিবরণ</string>
   <string name="revanced_hide_description_components_screen_summary">ভিডিও বিবরণ এর উপাদান লুকান বা প্রদর্শন করুন</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">কাস্টম ফিল্টার</string>
   <string name="revanced_custom_filter_screen_summary">কাস্টম ফিল্টার ব্যবহার করে বিভিন্ন উপাদান লুকান</string>
   <string name="revanced_custom_filter_title">কাস্টম ফিল্টার সক্রিয় করুন</string>

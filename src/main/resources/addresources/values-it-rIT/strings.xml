@@ -230,6 +230,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">La sezione della trascrizione è mostrata</string>
   <string name="revanced_hide_description_components_screen_title">Descrizione video</string>
   <string name="revanced_hide_description_components_screen_summary">Nascondi o mostra i componenti della descrizione video</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Nascondi Doodles Di YouTube</string>
+  <string name="revanced_hide_doodles_summary_on">Barra di ricerca Doodles sono nascosti</string>
+  <string name="revanced_hide_doodles_summary_off">Barra di ricerca Le Doodles sono mostrate</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTube Doodles si presenta un paio di giorni ogni anno.\n\nSe un Doodle è attualmente in mostra nella tua regione e questa impostazione di nascondimento è attiva, poi la barra dei filtri sotto la barra di ricerca sarà anche nascosta.</string>
   <string name="revanced_custom_filter_screen_title">Filtro personalizzato</string>
   <string name="revanced_custom_filter_screen_summary">Nascondi componenti utilizzando filtri personalizzati</string>
   <string name="revanced_custom_filter_title">Abilita filtro personalizzato</string>
@@ -636,6 +641,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Nascondi adesivi</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Gli adesivi sono nascosti</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Gli adesivi sono mostrati</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Nascondi come fontana</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Come l\'animazione della fontana del pulsante è nascosta</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Come l\'animazione del pulsante fontana è mostrata</string>
   <string name="revanced_hide_shorts_like_button_title">Nascondi pulsante come</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Il pulsante simile è nascosto</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Il pulsante simile è mostrato</string>

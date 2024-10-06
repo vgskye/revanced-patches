@@ -231,6 +231,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Afsnittet er vist</string>
   <string name="revanced_hide_description_components_screen_title">Video beskrivelse</string>
   <string name="revanced_hide_description_components_screen_summary">Skjul eller vis komponenter til videobeskrivelse</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Skjul YouTube-Doudler</string>
+  <string name="revanced_hide_doodles_summary_on">Søgebjælke Doudler er skjult</string>
+  <string name="revanced_hide_doodles_summary_off">Søgebjælke Doudler vises</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTube Doodles dukker op et par dage hvert år.\n\nHvis en Doodle i øjeblikket vises i din region og denne skjul-indstilling er slået til, så vil filterbjælken under søgelinjen også være skjult.</string>
   <string name="revanced_custom_filter_screen_title">Tilpasset filter</string>
   <string name="revanced_custom_filter_screen_summary">Skjul komponenter ved hjælp af brugerdefinerede filtre</string>
   <string name="revanced_custom_filter_title">Aktiver brugerdefineret filter</string>
@@ -636,6 +641,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Skjul klistermærker</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Klistermærker er skjult</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Klistermærker vises</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Skjul som springvand</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Ligesom knap springvand animation er skjult</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Animation af springvand vises som knap</string>
   <string name="revanced_hide_shorts_like_button_title">Skjul lignende knap</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Ligesom knappen er skjult</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Lideknap vises</string>

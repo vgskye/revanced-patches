@@ -36,7 +36,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_check_environment_failed_title">Yoxlamalar uğursuz oldu</string>
   <string name="revanced_check_environment_dialog_open_official_source_button">Xidməti veb saytı aç</string>
   <string name="revanced_check_environment_dialog_ignore_button">Yan keç</string>
-  <string name="revanced_check_environment_failed_message">&lt;h5&gt;Bu tətbiq sizin tərəfinizdən yamaqlanmayıb.&lt;/h5&gt;&lt;br&gt;Bu tətbiq düzgün işləməyə bilər, &lt;b&gt;istifadə etmək zərərli və ya hətta təhlükəli ola bilər&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;br&gt;Bu yoxlamalar bu tətbiqin əvvəldən yamaqlandığını və ya başqasından əldə edildiyini göstərir:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt; &lt;br&gt;onu silməyiniz və özünüz yamaqlamağınız tövsiyə olunur. &lt;/b&gt;təsdiqlənmiş və təhlükəsiz tətbiq istifadə etdiyinizə əmin olmaq üçün. &lt;p&gt;&lt;br&gt; İnkar edilməzsə, bu xəbərdarlıq yalnız iki dəfə göstəriləcək.</string>
+  <string name="revanced_check_environment_failed_message">&lt;h5&gt;Bu tətbiq sizin tərəfinizdən yamaqlanmayıb.&lt;/h5&gt;&lt;br&gt;Bu tətbiq düzgün işləməyə bilər, &lt;b&gt;istifadə etmək zərərli və ya hətta təhlükəli ola bilər&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Bu yoxlamalar bu tətbiqin əvvəldən yamaqlandığını və ya başqasından əldə edildiyini göstərir:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt; &lt;br&gt;onu silməyiniz və özünüz yamaqlamağınız tövsiyə olunur. &lt;/b&gt;təsdiqlənmiş və təhlükəsiz tətbiq istifadə etdiyinizə əmin olmaq üçün. &lt;p&gt;&lt;br&gt; İnkar edilməzsə, bu xəbərdarlıq yalnız iki dəfə göstəriləcək.</string>
   <string name="revanced_check_environment_not_same_patching_device">Fərqli cihazda yamaqlanıb</string>
   <string name="revanced_check_environment_manager_not_expected_installer">ReVanced Manager tərəfindən quraşdırılmayıb</string>
   <string name="revanced_check_environment_not_near_patch_time">10 dəqiqədən çox əvvəl yamaqlanıb</string>
@@ -230,6 +230,7 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Transkripsiya bölməsi göstərilir</string>
   <string name="revanced_hide_description_components_screen_title">Video açıqlaması</string>
   <string name="revanced_hide_description_components_screen_summary">Video açıqlaması elementlərini gizlət və ya göstər</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
   <string name="revanced_custom_filter_screen_title">Şəxsi filtr</string>
   <string name="revanced_custom_filter_screen_summary">Fərdi filtrlər ilə elementləri gizlət</string>
   <string name="revanced_custom_filter_title">Fərdi filtri aktivləşdir</string>
@@ -636,6 +637,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Stikerləri gizlət</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Stikerlər gizlidir</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Stikerlər göstərilir</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Bəyən fəvvarəsini gizlət</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">\"Bəyən\" fəvvarə animasiyası gizlidir</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">\"Bəyən\" fəvvarə animasiyası göstərilir</string>
   <string name="revanced_hide_shorts_like_button_title">\"Bəyən\" düyməsini gizlət</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Bəyənmə düyməsi gizlidir</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Bəyənmə düyməsi göstərilir</string>

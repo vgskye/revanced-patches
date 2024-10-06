@@ -230,6 +230,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">Секція \"Текст відео\" показується</string>
   <string name="revanced_hide_description_components_screen_title">Опис відео</string>
   <string name="revanced_hide_description_components_screen_summary">Приховати або показувати компоненти опису відео</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">Приховати Doodles YouTube</string>
+  <string name="revanced_hide_doodles_summary_on">Пошукові вузли приховані</string>
+  <string name="revanced_hide_doodles_summary_off">Пошукові панелі настройок відображаються</string>
+  <string name="revanced_hide_doodles_user_dialog_message">Doodles YouTube з\'являються на кілька днів щороку.\n\nЯкщо Doodle в даний час відображається в вашому регіоні і цей параметр приховування включено, тоді рядок фільтру під панеллю пошуку також буде приховано.</string>
   <string name="revanced_custom_filter_screen_title">Користувацький фільтр</string>
   <string name="revanced_custom_filter_screen_summary">Приховати компоненти за допомогою користувацьких фільтрів</string>
   <string name="revanced_custom_filter_title">Увімкнути користувацький фільтр</string>
@@ -636,6 +641,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">Приховати стікери</string>
   <string name="revanced_hide_shorts_stickers_summary_on">Стікери приховано</string>
   <string name="revanced_hide_shorts_stickers_summary_off">Стікери показуються</string>
+  <string name="revanced_hide_shorts_like_fountain_title">Приховати анімацію фонтану</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">Анімацію фонтану біля кнопки \"Подобається\" приховано</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">Анімація фонтану біля кнопки \"Подобається\" показується</string>
   <string name="revanced_hide_shorts_like_button_title">Приховати \"Подобається\"</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Кнопку \"Подобається\" приховано</string>
   <string name="revanced_hide_shorts_like_button_summary_off">Кнопка \"Подобається\" показується</string>

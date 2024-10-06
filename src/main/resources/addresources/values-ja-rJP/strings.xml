@@ -229,6 +229,11 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_transcript_section_summary_off">文字起こしセクションは表示されます</string>
   <string name="revanced_hide_description_components_screen_title">概要欄</string>
   <string name="revanced_hide_description_components_screen_summary">概要欄のコンポーネントを非表示または表示</string>
+  <!-- https://logos.fandom.com/wiki/YouTube/Yoodles -->
+  <string name="revanced_hide_doodles_title">YouTubeのDoodlesを隠す</string>
+  <string name="revanced_hide_doodles_summary_on">検索バーの落書きは非表示です</string>
+  <string name="revanced_hide_doodles_summary_off">検索バーの落書きが表示されます</string>
+  <string name="revanced_hide_doodles_user_dialog_message">YouTubeの落書きは毎年数日を表示します。\n\n現在お住まいの地域で落書きが表示されており、この非表示設定がオンの場合。 検索バーの下のフィルターバーも非表示になります。</string>
   <string name="revanced_custom_filter_screen_title">カスタムフィルター</string>
   <string name="revanced_custom_filter_screen_summary">カスタムフィルタを使用してコンポーネントを隠す</string>
   <string name="revanced_custom_filter_title">カスタムフィルタを有効にする</string>
@@ -633,6 +638,9 @@ This is because Crowdin requires temporarily flattening this file and removing t
   <string name="revanced_hide_shorts_stickers_title">ステッカーを隠す</string>
   <string name="revanced_hide_shorts_stickers_summary_on">ステッカーを非表示</string>
   <string name="revanced_hide_shorts_stickers_summary_off">ステッカーを表示</string>
+  <string name="revanced_hide_shorts_like_fountain_title">噴水のように隠す</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_on">ボタン噴水のアニメーションが非表示になります</string>
+  <string name="revanced_hide_shorts_like_fountain_summary_off">ボタン噴水のようなアニメーションが表示されます</string>
   <string name="revanced_hide_shorts_like_button_title">「いいね」ボタンを隠す</string>
   <string name="revanced_hide_shorts_like_button_summary_on">Like button is hidden</string>
   <string name="revanced_hide_shorts_like_button_summary_off">いいねボタンが表示されます</string>
