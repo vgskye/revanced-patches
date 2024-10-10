@@ -1,10 +1,11 @@
 package app.revanced.patches.youtube.interaction.seekbar
 
 import app.revanced.patcher.fingerprint
+import app.revanced.util.containsWideLiteralInstructionValue
 import app.revanced.util.literal
 import com.android.tools.smali.dexlib2.AccessFlags
 import com.android.tools.smali.dexlib2.Opcode
-import com.android.tools.smali.dexlib2.iface.instruction.NarrowLiteralInstruction
+import java.lang.Integer
 
 
 internal val swipingUpGestureParentFingerprint = fingerprint {
@@ -75,17 +76,9 @@ internal val seekbarTappingFingerprint = fingerprint {
         Opcode.INVOKE_VIRTUAL,
     )
     custom { method, _ ->
-        if (method.name != "onTouchEvent") return@custom false
-
-        method.implementation!!.instructions.any { instruction ->
-            if (instruction.opcode != Opcode.CONST) return@any false
-
-            val literal = (instruction as NarrowLiteralInstruction).narrowLiteral
-
-            // onTouchEvent method contains a CONST instruction
-            // with this literal making it unique with the rest of the properties of this fingerprint.
-            literal == Integer.MAX_VALUE
-        }
+        // onTouchEvent method contains a CONST instruction
+        // with this literal making it unique with the rest of the properties of this fingerprint.
+        method.name == "onTouchEvent" && method.containsWideLiteralInstructionValue(Integer.MAX_VALUE.toLong())
     }
 }
 
