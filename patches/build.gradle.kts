@@ -1,5 +1,8 @@
 group = "app.revanced"
 
+java.sourceCompatibility = JavaVersion.VERSION_11
+java.targetCompatibility = JavaVersion.VERSION_11
+
 patches {
     about {
         name = "ReVanced Patches"
