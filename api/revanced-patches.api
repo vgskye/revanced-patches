@@ -136,6 +136,12 @@ public final class app/revanced/patches/all/misc/resources/AddResourcesPatch : a
 	public final fun values ()Ljava/util/Collection;
 }
 
+public final class app/revanced/patches/all/misc/sigspoof/SignatureSpoofingPatch : app/revanced/patcher/patch/ResourcePatch {
+	public static final field INSTANCE Lapp/revanced/patches/all/misc/sigspoof/SignatureSpoofingPatch;
+	public synthetic fun execute (Lapp/revanced/patcher/data/Context;)V
+	public fun execute (Lapp/revanced/patcher/data/ResourceContext;)V
+}
+
 public abstract class app/revanced/patches/all/misc/transformation/BaseTransformInstructionsPatch : app/revanced/patcher/patch/BytecodePatch {
 	public fun <init> ()V
 	public fun execute (Lapp/revanced/patcher/data/BytecodeContext;)V
